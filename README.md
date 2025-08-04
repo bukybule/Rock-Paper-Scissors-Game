@@ -1,2 +1,1 @@
-# Rock-Paper-Scissors-Game
-A simple Python Rock-Paper-Scissors game where the user picks an option, and the computer chooses randomly. ASCII art displays each choice, and classic game rules determine the winner. A fun terminal project for beginners!
+Play Rock-Paper-Scissors in your terminal! The player selects rock, paper, or scissors, and the computer randomly picks its move. ASCII graphics show the choices, and the winner is decided by classic rules. Great for Python beginners to practice input and logic.
